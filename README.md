@@ -16,4 +16,4 @@
 - Python 3.11+
 - aiogram 2.25
 - SQLite
-- OpenAI (опціонально)
+- OpenAI (опціонально)# telegram-ai-business-bot
